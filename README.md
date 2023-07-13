@@ -1,4 +1,4 @@
-# DSTeam_Project2023
+# Data Science Team_Project2023
 
 Collaborators: 
 
